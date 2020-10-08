@@ -109,7 +109,7 @@
             <div style="text-align: center;">
                 <h2>5.4 Engage - Learning Task 5.1</h2>
                 <h3>Coronel, Angela</h3>
-                <h3><a href="https://github.com/angelacoronel/coronel-svg/" style="text-decoration: none; color: rgb(46, 143, 8);">Github repo</a></h3>
+                <h3><a href="https://github.com/angelacoronel/coronel-svg/" target="blank" style="text-decoration: none; color: rgb(46, 143, 8);">Github repo</a></h3>
             </div>
             
             <div class="row1">
